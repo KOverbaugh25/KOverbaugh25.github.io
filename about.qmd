@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+## About Me
+
+Welcome to my portfolio! I'm happy to show you my work.
+
+My name is Kathleen Overbaugh, a current MSBA student at UCI's Merage School of Business. I completed my undergraduate degree in Business Administration at Boston University, where I concentrated in Marketing and Global Business, and minored in International Relations. It became my passion to understand the complex relationships between peoples and businesses, whether that be on a social level or through numbers.
+
+This became especially apparent when I took classes in marketing research and analytics. I fell in love with the idea of connecting numbers, understanding what those numbers actually mean, and creating an actionable outcome. Data is really like one big puzzle!
+
+Beyond my academic pursuits, I am an adventurer. Throughout my undergraduate expereince, I was a member of the track and field team. I am lucky to also compete at the D1 level at UCI. I enjoy any outdoor activity, including running, hiking, camping, etc. One of my goals in life it to go to every national park!
+
+
+## Goals of this site
+Showcasing my skills, showing my development over the year
+
+```{python}
+print("Hello world")
+```
