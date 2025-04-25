@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kathleen Overbaugh: Portfolio",
+    "section": "",
+    "text": "Enter biography here"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
@@ -7,11 +14,18 @@
     "text": "Project A"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kathleen Overbaugh: Portfolio",
-    "section": "",
-    "text": "Enter biography here"
+    "objectID": "projects/index.html#iris",
+    "href": "projects/index.html#iris",
+    "title": "Projects",
+    "section": "Iris",
+    "text": "Iris\n\n\nUCI: Iris Research Project Check out this analysis I performed by following the link Project A."
+  },
+  {
+    "objectID": "projects/index.html#project-2",
+    "href": "projects/index.html#project-2",
+    "title": "Projects",
+    "section": "Project #2",
+    "text": "Project #2"
   },
   {
     "objectID": "about.html",
